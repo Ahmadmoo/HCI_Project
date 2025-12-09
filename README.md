@@ -39,7 +39,7 @@ A modern, responsive, and feature-rich AI chat application built with **React**,
 
 1. **Clone the repository**
    ```bash
-   git https://github.com/Ahmadmoo/HCI_Project/tree/main
+   git https://github.com/Ahmadmoo/HCI_Project.git
    cd chatbot-project
 
 
