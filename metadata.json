@@ -1,0 +1,5 @@
+{
+  "name": "ChatBot",
+  "description": "A sleek, responsive AI chat interface mimicking the Gemini/GPT experience, featuring real-time streaming responses and Markdown support.",
+  "requestFramePermissions": []
+}
